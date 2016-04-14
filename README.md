@@ -1,6 +1,6 @@
 # ExtTS
 Premium TypeScript type definitions for Sencha Ext JS
-ExtTS for ExtJS 6.0.2.437
+ExtTS for ExtJS 4.x, 5.x, 6.x
 
 Copyright (C) 2015-2016 ExtFX.NET
 Contact: thanhptr@gmail.com

@@ -7,3 +7,5 @@ Contact: thanhptr@gmail.com
 
 Version: 1.0.0.0
 
+This is designed to be used in conjunction with fabioparra's patched Typescript compiler that emits ExtJS style classes (https://github.com/fabioparra/TypeScript). ExtJS versions 4 and 5 are supported.
+

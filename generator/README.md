@@ -1,4 +1,4 @@
-1. Empty jsduck\docs, jsduck\out, jsduck\src
-2. Copy all ExtJS source to jsduck\src\classic & jsduck\src\modern (under ExtJS/src/: packages, classic, modern)
-3. Execute AS ADMIN ts\jsduck\classic.cmd & ts\jsduck\modern.cmd => check result at jsduck\out
-4. Generate TS by running c2.tools.ExtTS => check result at jsduck\ts
+1. Empty docs (from jsduck), 3.out, 1.src
+2. Copy all ExtJS source to 1.src\ext-x.x.x (from ExtJS/src/: packages, classic, modern)
+3. Execute AS ADMIN 1.src\ext-x.x.x.cmd => check result at 3.out
+4. Generate TS by running c2.tools.ExtTS

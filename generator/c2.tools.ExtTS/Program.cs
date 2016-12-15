@@ -27,6 +27,7 @@ namespace c2.tools.ExtTS
                 }
                 Console.WriteLine();
                 Console.WriteLine();
+                Console.ReadLine();
             }
         }
 
